@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","6510","To login into instagram using credentials","Instagram Login Functionality","Sat Nov 01 13:45:38 IST 2025","broken","Sat Nov 01 13:45:45 IST 2025","","","",""
+"","3446","login with credentials","Test login functionality","Sun Nov 02 20:30:06 IST 2025","passed","Sun Nov 02 20:30:09 IST 2025","","","",""
+"","1538","Run First demo Feature","Demo Feature","Tue Oct 21 12:57:50 IST 2025","passed","Tue Oct 21 12:57:52 IST 2025","","","",""

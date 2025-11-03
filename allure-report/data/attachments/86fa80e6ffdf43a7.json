@@ -1,0 +1,4 @@
+{
+  "using": "css selector",
+  "value": "div[@class='wp-block-button aligncenter is-style-fill']/a"
+}
